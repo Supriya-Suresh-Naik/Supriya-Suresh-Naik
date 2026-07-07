@@ -1,151 +1,182 @@
-<h1 align="center">Hi there, I'm Supriya Suresh Naik 👋</h1>
+<div align="center">
 
-<h3 align="center">Java Full Stack Developer | Backend-focused | Building things that scale</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:8E2DE2&height=220&section=header&text=Supriya%20Suresh%20Naik&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Concurrency-Safe+Systems;Fraud+Detection+%7C+Machine+Learning;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2E86DE&center=true&vCenter=true&width=650&lines=Java+%2F+Spring+Boot+%2F+REST+APIs;Designing+Concurrency-Safe+Systems;Fraud+Detection+with+Machine+Learning;Turning+Resumes+into+Live+Portfolios;Always+Building%2C+Always+Learning" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/supriya-suresh-naik-728021331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naiksupriya059@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:8073289329">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/supriya-suresh-naik-728021331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Supriya-Suresh-Naik">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:naiksupriya059@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:8073289329">
+  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=Supriya-Suresh-Naik&label=Profile%20Views&color=8E2DE2&style=for-the-badge" />
 
-- 🎓 B.E in Computer Science (CGPA: **9.34**) @ Jain College of Engineering and Research, Belagavi
-- 💼 Currently working as a **Java Full Stack Developer** @ JSpiders, Bengaluru
-- 🛠️ Previously interned as a **Full Stack Developer** @ S S Inphinite LLP
-- 🧠 Passionate about backend architecture, real-time systems, and applied ML
-- 📫 Reach me at **naiksupriya059@gmail.com**
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
 
-### 🧰 Tech Stack
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+```yaml
+name: Supriya Suresh Naik
+role: Java Full Stack Developer @ JSpiders, Bengaluru
+education: "B.E in CSE — Jain College of Engineering and Research (CGPA: 9.34)"
+current_focus: [Spring Boot APIs, Concurrency-safe systems, Applied ML for fraud detection]
+previously: Full Stack Developer Intern @ S S Inphinite LLP
+fun_fact: "Turns messy resumes into live, structured career portfolios"
+```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
 
-### 🔥 Featured Projects
+## 🧰 Tech Arsenal
 
-<table>
+<div align="center">
+
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,oracle&perline=4" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=4" />
+
+**Database & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle,aws&perline=4" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea&perline=5" />
+
+**AI / ML Ecosystem**
+
+<img src="https://skillicons.dev/icons?i=githubcopilot,anthropic,openai&perline=4" />
+<img src="https://img.shields.io/badge/XGBoost-005A9C?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
+
+## 🚀 Featured Work
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**🏍️ Bike Serve+**
-<br/>
-Concurrency-safe bike service booking platform
-- Real-time slot booking under high-volume load
-- State-driven service lifecycle tracking
-- Dynamic pricing config without redeploys
-- Optimized Oracle DB schema for low-latency ops
-
-`HTML` `CSS` `JS` `Java` `Spring Boot` `Oracle DB` `Microservices`
-
+<h3>🏍️ Bike Serve+</h3>
+<img src="https://img.shields.io/badge/status-shipped-2E86DE?style=flat-square" />
+<p>High-volume bike service booking platform built for real-world scheduling load.</p>
+<ul>
+<li>Concurrency-safe slot booking for parallel requests</li>
+<li>State-driven service lifecycle tracking</li>
+<li>Dynamic pricing/config with zero redeploys</li>
+<li>Query-optimized Oracle DB schema for low latency</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </td>
 <td width="50%" valign="top">
-
-**🛡️ Threat Bank AI**
-<br/>
-Banking security platform detecting financial fraud
-- XGBoost fraud detection: **94% overall accuracy**
-- 99.98% credit card fraud detection
-- Role-based auth with encryption + real-time alerts
-- 📄 Published research paper (IJARP)
-
-`Java` `Spring Boot` `MySQL` `XGBoost` `Servlet`
-
+<h3>🛡️ Threat Bank AI</h3>
+<img src="https://img.shields.io/badge/status-published_research-8E2DE2?style=flat-square" />
+<p>Web-based banking security platform detecting fraud in real time.</p>
+<ul>
+<li><b>94% overall accuracy</b> with XGBoost fraud model</li>
+<li>99.98% credit card fraud · 90.23% account takeover · 91.63% money laundering</li>
+<li>Encrypted, role-based auth integrated with live alerts</li>
+<li>📄 Published in IJARP (Dec 2025)</li>
+</ul>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Servlet-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**🎓 Student Mentor Management System**
-<br/>
-Academic mentorship & performance tracking system
-- 100% accurate attendance tracking (+40%)
-- 95% accurate mentor evaluations (+20%)
-- Automated leave management (+15%)
-- 98% system reliability via query optimization
-
-`HTML` `CSS` `JS` `PHP` `MySQL`
-
+<h3>🎓 Student Mentor Management System</h3>
+<img src="https://img.shields.io/badge/status-shipped-2E86DE?style=flat-square" />
+<p>Academic mentorship platform for attendance, evaluation & leave tracking.</p>
+<ul>
+<li>100% accurate attendance tracking (+40%)</li>
+<li>95% accurate mentor evaluations (+20%)</li>
+<li>Automated leave management (+15%)</li>
+<li>98% system reliability via query optimization & secure sessions</li>
+</ul>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 <td width="50%" valign="top">
-
-**💼 Career Data & Resume System**
-<br/>
-Centralized career data system (JSpiders)
-- Eliminated repeated resume data entry via Oracle DB
-- Dynamic resume/portfolio generation via Spring Boot APIs
-- Live online portfolio profiles for recruiter visibility
-
-`Java` `Spring Boot` `Oracle DB` `REST APIs`
-
+<h3>💼 Career Data & Live Portfolio System</h3>
+<img src="https://img.shields.io/badge/status-in_production-2E86DE?style=flat-square" />
+<p>Centralized career data system built @ JSpiders to kill repeated data entry.</p>
+<ul>
+<li>Structured user data stored once in Oracle DB</li>
+<li>Dynamic resume/portfolio generation via Spring Boot APIs</li>
+<li>Live online portfolio profiles for recruiter visibility</li>
+</ul>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
 
-### 📜 Certifications
+## 📜 Certifications
 
-- ✅ Java Full Stack Certificate — *Sep 2024*
-- ✅ Database Management System, Infosys Springboard — *Jun 2025*
-- ✅ Threat Bank AI – Research Publication Certificate (IJARP) — *Dec 2025*
+<div align="center">
 
----
+| Certificate | Issuer | Date |
+|---|---|---|
+| 🏆 Java Full Stack Certificate | — | Sep 2024 |
+| 🏆 Database Management System | Infosys Springboard | Jun 2025 |
+| 🏆 Threat Bank AI — Research Publication | IJARP | Dec 2025 |
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Supriya-Suresh-Naik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya-Suresh-Naik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supriya-Suresh-Naik&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Supriya-Suresh-Naik&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Supriya-Suresh-Naik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya-Suresh-Naik&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Supriya-Suresh-Naik&label=Profile%20Views&color=2E86DE&style=flat" />
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Supriya-Suresh-Naik&theme=tokyo-night&hide_border=true&area=true" />
 
-<h3 align="center">💬 "Building systems that don't just work — they scale, adapt, and protect."</h3>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Supriya-Suresh-Naik&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Supriya-Suresh-Naik&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86DE,100:8E2DE2&height=3" />
+
+<div align="center">
+
+### 💬 "Building systems that don't just work — they scale, adapt, and protect."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E86DE&height=120&section=footer" />
+
+</div>
