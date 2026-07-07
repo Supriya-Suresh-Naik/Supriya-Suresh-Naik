@@ -30,7 +30,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🎓 &nbsp;**B.E. Computer Science**, Jain College of Engineering & Research — **CGPA 9.34**
-- 💼 &nbsp;**Java Full Stack Developer** @ **JSpiders**, Bengaluru — *building career-tech systems*
+- 💼 &nbsp;**Java Full Stack Developer Intern** @ **JSpiders**, Bengaluru — *building career-tech systems*
 - 🛡️ &nbsp;Built an AI fraud-detection engine hitting **99.98% accuracy** on credit card fraud
 - 🏍️ &nbsp;Engineered a concurrency-safe booking platform for high-volume real-time bookings
 - 📄 &nbsp;Published **research paper** on AI-driven banking security (IJARP, 2025)
