@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=280&section=header&text=Supriya%20Suresh%20Naik&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=280&section=header&text=Supriya%20Suresh%20Naik&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=58&descSize=22" width="100%"/>
 
 <br/>
 
@@ -30,8 +30,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🎓 &nbsp;**B.E. Computer Science**, Jain College of Engineering & Research — **CGPA 9.34**
-- 💼 &nbsp;**Java Full Stack Development Intern
-- ** @ **JSpiders**, Bengaluru — *building career-tech systems*
+- 💼 &nbsp;**Java Full Stack Development Intern** @ **JSpiders**, Bengaluru — *building career-tech systems*
 - 🛡️ &nbsp;Built an AI fraud-detection engine hitting **99.98% accuracy** on credit card fraud
 - 🏍️ &nbsp;Engineered a concurrency-safe booking platform for high-volume real-time bookings
 - 📄 &nbsp;Published **research paper** on AI-driven banking security (IJARP, 2025)
